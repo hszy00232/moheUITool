@@ -1,2 +1,1 @@
-# moheUITool
-The tool is for moheUI component develop
+魔盒UI组件库
